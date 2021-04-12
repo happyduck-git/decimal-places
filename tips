@@ -1,0 +1,5 @@
+//first way
+String(format: "%.2f", valueYouWanttoChange)
+//number after "%" indicates numbers of decimal places
+//second way
+Int(valueYouWanttoChange)
